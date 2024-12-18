@@ -4,7 +4,7 @@ Project overview.
 
 Project choie explanation. 
 
-I got into programming recently so I am still thinking of the ways to improve what I do, but initially I wanted to build things for people who live in the Internet, I wanted to make their life easier and more productive. Therefore the project I chose is the management system for the shop, the system to control the backwards of the program, I am currently not familiar with GUIs that java provides, so I only built the backwards of the program with all OOP concepts. It is a quite simple project, but extremely useful if you further develop it. 
+I got into programming recently so I am still thinking of the ways to improve what I do, but initially I wanted to build things for people who live in the Internet,I wanted to make their life easier and more productive. Therefore the project I chose is the management system for the shop, the system to control the backwards of the program, I am currently not familiar with GUIs that java provides, so I only built the backwards of the program with all OOP concepts. It is a quite simple project, but extremely useful if you further develop it. 
 
 Competitor analysis.
 
