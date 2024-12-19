@@ -1,5 +1,5 @@
 # JavaProject
-
+Link to youtoube video - https://www.youtube.com/watch?v=QOURaG33yTo
 Project overview.
 
 Project choie explanation. 
@@ -36,5 +36,6 @@ OOP programming, proper input validation.
 
 Future improvements: 
 make better loggining the product in the file, making the prices, search methods, GUI potenially, databases.
+
 
 
